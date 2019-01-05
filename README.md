@@ -15,5 +15,5 @@
 
         return 0;
     }
-   #Hasil
+   # Hasil
    ![img](https://raw.githubusercontent.com/AminPriadi/Gaji-Pegawai/master/gaji.png)
